@@ -1,0 +1,85 @@
+body {
+	font-family: Verdana, Arial, Helvetica, Futura, sans-serif;
+	font-size: 1em;
+	padding:0;
+	margin:0;
+}
+
+#appMenu{
+    background-color: #2F316E;
+}
+
+#mainContainer{
+    background-color: #33E4FA
+}
+
+#welcome{
+    font-family         : "Tahoma";
+    font-size           : 28px !important;
+    text-align          : center;
+    margin-top          : 70px;
+    text-shadow         : 1px 1px 1px #FFFFFF;
+    /*background-image: url('../img/logo.png');*/
+    color               : #006BA4;
+    background-repeat   : no-repeat;
+    background-position : center;
+    height: 350px;   
+}
+
+/*
+ * Icon Block
+ */
+.icon-home { background-image: url(../img/home.png) !important; }
+.icon-logout { background-image: url(../img/logout.png) !important; }
+.icon-username { background-image: url(../img/username.png) !important; }
+.icon-menu { background-image: url(../img/menu.png) !important; }
+.icon-menu2 { background-image: url(../img/menu2.png) !important; }
+.icon-header { background-image: url(../img/header.png) !important; }
+.icon-pencil { background-image: url(../img/pencil.png) !important; }
+.icon-clock { background-image: url(../img/clock.png) !important; }
+.icon-calendar { background-image: url(../img/calendar.png) !important; }
+.icon-password { background-image: url(../img/password.png) !important; }
+.icon-gear { background-image: url(../img/gear.png) !important; }
+.icon-user { background-image: url(../img/user.png) !important; }
+.icon-save { background-image: url(../img/save.png) !important; }
+.icon-edit { background-image: url(../img/edit.png) !important; }
+.icon-delete { background-image: url(../img/delete.png) !important; }
+.icon-refresh { background-image: url(../img/refresh.png) !important; }
+.icon-excel { background-image: url(../img/excel.png) !important; }
+.icon-form { background-image: url(../img/form.png) !important; }
+.icon-grid { background-image: url(../img/grid.png) !important; }
+.icon-role { background-image: url(../img/role.png) !important; }
+.icon-master { background-image: url(../img/database_refresh.png) !important; }
+.icon-simpanan { background-image: url(../img/report.png) !important; }
+.icon-pembiayaan2 { background-image: url(../img/money.png) !important; }
+.icon-tools { background-image: url(../img/joystick.png) !important; }
+.icon-pdf { background-image: url(../img/pdf.png) !important; }
+.icon-laporan { background-image: url(../img/report_edit.png) !important; }
+.icon-product { background-image: url(../img/cart.png) !important; }
+.icon-anggota { background-image: url(../img/group.png) !important; }
+.icon-akunting { background-image: url(../img/book.png) !important; }
+.icon-system { background-image: url(../img/disconnect.png) !important; }
+.icon-simpokok { background-image: url(../img/shield_silver.png) !important; }
+.icon-simwajib { background-image: url(../img/shield.png) !important; }
+.icon-simpemupukan { background-image: url(../img/shield_rainbow.png) !important; }
+.icon-pembiayaan { background-image: url(../img/table.png) !important; }
+.icon-index { background-image: url(../img/chart_line.png) !important; }
+.icon-kas { background-image: url(../img/computer_go.png) !important; }
+.icon-nonkas { background-image: url(../img/computer_key.png) !important; }
+.icon-mutasisim { background-image: url(../img/comment_play.png) !important; }
+.icon-bukubesar { background-image: url(../img/book_tabs.png) !important; }
+.icon-saldo { background-image: url(../img/coins.png) !important; }
+.icon-simanggota { background-image: url(../img/user_suit.png) !important; }
+.icon-bahas { background-image: url(../img/brick.png) !important; }
+.icon-nrckeuangan { background-image: url(../img/chart_pie.png) !important; }
+.icon-labarugi { background-image: url(../img/folder_brick.png) !important; }
+.icon-staff { background-image: url(../img/user_gray.png) !important; }
+.icon-role2 { background-image: url(../img/user_key.png) !important; }
+.icon-coa { background-image: url(../img/script_code.png) !important; }
+.icon-report { background-image: url(../img/layout.png) !important; }
+.icon-hr { background-image: url(../img/status_be_right_back.png) !important; }
+.icon-joblevel { background-image: url(../img/star.png) !important; }
+.icon-jobname { background-image: url(../img/medal_gold_1.png) !important; }
+.icon-marketing { background-image: url(../img/user_green.png) !important; }
+.icon-profile { background-image: url(../img/vcard.png) !important; }
+.icon-nasabah { background-image: url(../img/user_orange.png) !important; }
